@@ -1,0 +1,24 @@
+C:\Users\jolta\source\repos\BackedAtC\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+C:\Users\jolta\source\repos\BackedAtC\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\jolta\source\repos\BackedAtC\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\jolta\source\repos\BackedAtC\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\jolta\source\repos\BackedAtC\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\jolta\source\repos\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\jolta\source\repos\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\jolta\source\repos\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\jolta\source\repos\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\jolta\source\repos\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+C:\Users\jolta\source\repos\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\jolta\source\repos\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb

@@ -1,0 +1,26 @@
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\bin\Debug\BattleshipsAtC.exe.config
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\bin\Debug\BattleshipsAtC.exe
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\bin\Debug\BattleshipsAtC.pdb
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.csprojAssemblyReference.cache
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.Properties.Resources.resources
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.StartWindow.resources
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.csproj.GenerateResource.cache
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.csproj.CoreCompileInputs.cache
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.exe
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.pdb
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.PlayerForm.resources
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.NewPlayerForm.resources
+C:\Users\jolta\source\repos\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.SetupGameWindow.resources
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\bin\Debug\BattleshipsAtC.exe.config
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\bin\Debug\BattleshipsAtC.exe
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\bin\Debug\BattleshipsAtC.pdb
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.csprojAssemblyReference.cache
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.NewPlayerForm.resources
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.PlayerForm.resources
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.Properties.Resources.resources
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.SetupGameWindow.resources
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.StartWindow.resources
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.csproj.GenerateResource.cache
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.csproj.CoreCompileInputs.cache
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.exe
+C:\Users\jolta\Desktop\battleships C#\BattleshipsAtC\BattleshipsAtC\obj\Debug\BattleshipsAtC.pdb

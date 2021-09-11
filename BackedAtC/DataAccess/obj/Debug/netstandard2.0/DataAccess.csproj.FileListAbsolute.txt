@@ -1,0 +1,18 @@
+C:\Users\jolta\source\repos\BackedAtC\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\jolta\source\repos\BackedAtC\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\jolta\source\repos\BackedAtC\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\jolta\source\repos\BackedAtC\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\jolta\source\repos\BackedAtC\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jolta\source\repos\BackedAtC\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\jolta\source\repos\BackedAtC\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\jolta\source\repos\BackedAtC\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\jolta\source\repos\BackedAtC\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\jolta\Desktop\battleships C#\BackedAtC\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
